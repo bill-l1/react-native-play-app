@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/bill/onboarding/play-samples-play-java-starter-example/conf/logback.xml,/Users/bill/onboarding/play-samples-play-java-starter-example/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/bill/onboarding/play-samples-play-java-starter-example/conf/application.conf,/Users/bill/onboarding/play-samples-play-java-starter-example/target/scala-2.13/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/bill/onboarding/play-samples-play-java-starter-example/conf/routes,/Users/bill/onboarding/play-samples-play-java-starter-example/target/scala-2.13/classes/routes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/bill/onboarding/play-samples-play-java-starter-example/conf/rand.routes,/Users/bill/onboarding/play-samples-play-java-starter-example/target/scala-2.13/classes/rand.routes)[0m
